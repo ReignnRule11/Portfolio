@@ -1,6 +1,6 @@
 # Justus Okoro - Portfolio
 
-https://ReignnRule11.github.io/portfolio
+
 
 Founder & Full-Stack Engineer. Building Quorum—a transparent voting platform for events and elections.
 
