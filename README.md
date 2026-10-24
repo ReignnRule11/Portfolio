@@ -1,3 +1,5 @@
+[![Deploy portfolio to GitHub Pages](https://github.com/ReignnRule11/Portfolio/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/ReignnRule11/Portfolio/actions/workflows/deploy-pages.yml)
+
 # Justus Okoro
 
 **Systems Architect • AI Engineer • Product Builder**
