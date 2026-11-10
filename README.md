@@ -7,7 +7,7 @@ I work at the intersection of systems architecture, applied AI, product strategy
 
 ## Portfolio
 
-**Live portfolio:** https://reignnrule11.github.io/portfolio
+**Portfolio website:** https://reignnrule11.github.io/Portfolio/
 
 The portfolio website is the concise, visual overview. This README provides a longer-form profile and project index.
 
@@ -64,7 +64,7 @@ I am interested in product engineering and architecture work involving AI-enable
 
 - **GitHub:** https://github.com/ReignnRule11
 - **LinkedIn:** https://www.linkedin.com/in/justus-okoro-358025199/
-- **Portfolio:** https://reignnrule11.github.io/portfolio
+- **Portfolio:** https://reignnrule11.github.io/Portfolio/
 
 ---
 
