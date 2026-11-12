@@ -1,5 +1,114 @@
 {
   "window_days": 30,
   "visibility": "public-only",
-  "projects": []
+  "projects": [
+    {
+      "name": "Apex-protocol",
+      "full_name": "ReignnRule11/Apex-protocol",
+      "html_url": "https://github.com/ReignnRule11/Apex-protocol",
+      "description": null,
+      "language": "Rust",
+      "pushed_at": "2026-11-12T23:24:23Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "sophia-central-backend",
+      "full_name": "ReignnRule11/sophia-central-backend",
+      "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
+      "description": "Centralized academic resource and research platform backend",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-12T22:20:14Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Sophia-Central-frontend",
+      "full_name": "ReignnRule11/Sophia-Central-frontend",
+      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
+      "description": "Production-grade MVP frontend for Sophis Central",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-12T21:19:30Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "PulseGridHealth",
+      "full_name": "ReignnRule11/PulseGridHealth",
+      "html_url": "https://github.com/ReignnRule11/PulseGridHealth",
+      "description": "Population and Workforce Health Early-Warning Intelligence platform.",
+      "language": "Python",
+      "pushed_at": "2026-11-12T14:22:32Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "timezone-clock",
+      "full_name": "ReignnRule11/timezone-clock",
+      "html_url": "https://github.com/ReignnRule11/timezone-clock",
+      "description": "A modern digital clock displaying current time across multiple time zones with real-time updates",
+      "language": "JavaScript",
+      "pushed_at": "2026-11-11T15:36:43Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Mini-DeFi-Vault",
+      "full_name": "ReignnRule11/Mini-DeFi-Vault",
+      "html_url": "https://github.com/ReignnRule11/Mini-DeFi-Vault",
+      "description": "A full-stack Ethereum dApp for depositing and withdrawing test ETH from a personal vault on Sepolia.",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-11T13:16:06Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "social-campaign-publisher",
+      "full_name": "ReignnRule11/social-campaign-publisher",
+      "html_url": "https://github.com/ReignnRule11/social-campaign-publisher",
+      "description": "Social Campaign Publisher Multi-platform social campaign publishing service with durable retries, webhook verification, and end-to-end monitoring.",
+      "language": "Python",
+      "pushed_at": "2026-11-10T16:07:52Z",
+      "default_branch": "master"
+    },
+    {
+      "name": "Sophia-Central-mobile",
+      "full_name": "ReignnRule11/Sophia-Central-mobile",
+      "html_url": "https://github.com/ReignnRule11/Sophia-Central-mobile",
+      "description": "Expo React Native mobile app for Sophia Central",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-05T09:06:56Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Nexus",
+      "full_name": "ReignnRule11/Nexus",
+      "html_url": "https://github.com/ReignnRule11/Nexus",
+      "description": null,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-25T23:22:37Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "EDUOSSS",
+      "full_name": "ReignnRule11/EDUOSSS",
+      "html_url": "https://github.com/ReignnRule11/EDUOSSS",
+      "description": " EduOS is a multi-tenant school management platform. It combines a NestJS REST API, a Next.js web application (public school site plus authenticated dashboard), PostgreSQL, Redis, and local or S3-compatible object storage.",
+      "language": "TypeScript",
+      "pushed_at": "2026-10-25T21:00:51Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Neurolearn-Token",
+      "full_name": "ReignnRule11/Neurolearn-Token",
+      "html_url": "https://github.com/ReignnRule11/Neurolearn-Token",
+      "description": "Creating experimental customised Token",
+      "language": "Solidity",
+      "pushed_at": "2026-10-19T18:07:37Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "https-github.com-ReignnRule11-NeurolearnAI",
+      "full_name": "ReignnRule11/https-github.com-ReignnRule11-NeurolearnAI",
+      "html_url": "https://github.com/ReignnRule11/https-github.com-ReignnRule11-NeurolearnAI",
+      "description": " NeuroLearn AI: Your Personal AI Learning Operating System (AI study companion)",
+      "language": "Kotlin",
+      "pushed_at": "2026-10-15T19:49:53Z",
+      "default_branch": "main"
+    }
+  ]
 }
