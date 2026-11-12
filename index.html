@@ -26,7 +26,7 @@
   <div class="wrap">
     <nav class="nav" aria-label="Main navigation">
       <a class="brand" href="#top">JUSTUS OKORO</a>
-      <div class="navlinks"><a href="#work">Selected work</a><a href="#about">About</a><a href="#capabilities">Capabilities</a><a href="#contact">Contact</a></div>
+      <div class="navlinks"><a href="#work">Selected work</a><a href="#active-development">Active development</a><a href="#about">About</a><a href="#capabilities">Capabilities</a><a href="#contact">Contact</a></div>
     </nav>
     <main id="top">
       <header class="hero">
@@ -100,6 +100,14 @@
         </div>
       </section>
 
+      <section id="active-development">
+        <div class="sectionhead"><h2>Active development</h2><p>Automatically refreshed from public GitHub repositories with source activity in the last 30 days. Private repositories are never exposed here.</p></div>
+        <div id="active-project-grid" class="grid" aria-live="polite">
+          <article class="card"><div class="status">Loading activity</div><h3>Checking GitHub repositories</h3><p>Recent public development activity will appear here automatically.</p></article>
+        </div>
+        <p id="active-project-updated" class="muted" style="color:var(--muted);font-size:.85rem;margin-top:14px">Activity sync runs every 30 minutes.</p>
+      </section>
+
       <section id="about">
         <div class="sectionhead"><h2>How I work</h2><p>Architecture is a tool for making better product and engineering decisions—not an end in itself.</p></div>
         <div class="aboutgrid">
@@ -135,5 +143,61 @@
     </main>
     <footer><span>© <span id="year">2026</span> Justus Okoro</span><span>Think in systems. Build for reality. Ship what matters.</span></footer>
   </div>
-</body>
+  <script>
+    (function () {
+      const grid = document.getElementById('active-project-grid');
+      const updated = document.getElementById('active-project-updated');
+      const make = (tag, className, text) => {
+        const node = document.createElement(tag);
+        if (className) node.className = className;
+        if (text !== undefined) node.textContent = text;
+        return node;
+      };
+      fetch('./data/active-projects.json', { cache: 'no-store' })
+        .then((response) => {
+          if (!response.ok) throw new Error('Activity feed unavailable');
+          return response.json();
+        })
+        .then((feed) => {
+          grid.replaceChildren();
+          const projects = Array.isArray(feed.projects) ? feed.projects : [];
+          if (!projects.length) {
+            grid.append(make('article', 'card', undefined));
+            const card = grid.firstElementChild;
+            card.append(make('div', 'status', 'No recent pushes'));
+            card.append(make('h3', '', 'No active public repositories detected'));
+            card.append(make('p', '', 'When source changes are pushed to a public repository, it will appear here automatically.'));
+          } else {
+            projects.forEach((project) => {
+              const card = make('article', 'card');
+              card.append(make('div', 'status', 'Active development · Updated ' + new Date(project.pushed_at).toLocaleDateString()));
+              card.append(make('h3', '', project.name || project.full_name));
+              const meta = make('div', 'meta');
+              if (project.language) meta.append(make('span', 'tag', project.language));
+              meta.append(make('span', 'tag', 'Public repository'));
+              card.append(meta);
+              card.append(make('p', '', project.description || 'Public repository with recent source-code activity.'));
+              const links = make('div', 'cardlinks');
+              const link = make('a', 'textlink', 'View source repository ↗');
+              link.href = project.html_url;
+              link.target = '_blank';
+              link.rel = 'noopener noreferrer';
+              links.append(link);
+              card.append(links);
+              grid.append(card);
+            });
+          }
+          updated.textContent = 'Automatically synced every 30 minutes · ' + projects.length + ' active public ' + (projects.length === 1 ? 'repository' : 'repositories') + ' found in the last 30 days.';
+        })
+        .catch(() => {
+          grid.replaceChildren();
+          const card = make('article', 'card');
+          card.append(make('div', 'status', 'Activity feed unavailable'));
+          card.append(make('h3', '', 'GitHub activity could not be loaded'));
+          card.append(make('p', '', 'The selected work section remains available. The automatic activity feed will retry on its next scheduled sync.'));
+          grid.append(card);
+        });
+    })();
+  </script>
+  </body>
 </html>
