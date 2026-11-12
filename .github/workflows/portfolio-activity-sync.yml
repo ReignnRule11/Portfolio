@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "index.html"
+      - ".github/workflows/portfolio-activity-sync.yml"
 
 permissions:
   contents: write
@@ -17,6 +22,8 @@ concurrency:
 jobs:
   sync-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
     steps:
       - name: Check out portfolio
         uses: actions/checkout@v4
@@ -129,5 +136,6 @@ jobs:
           path: .
 
       - name: Deploy updated portfolio
+        id: deployment
         if: steps.commit.outputs.changed == 'true'
         uses: actions/deploy-pages@v4
