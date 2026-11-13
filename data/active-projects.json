@@ -3,12 +3,12 @@
   "visibility": "public-only",
   "projects": [
     {
-      "name": "Apex-protocol",
-      "full_name": "ReignnRule11/Apex-protocol",
-      "html_url": "https://github.com/ReignnRule11/Apex-protocol",
-      "description": null,
-      "language": "Rust",
-      "pushed_at": "2026-11-12T23:24:23Z",
+      "name": "Sophia-Central-frontend",
+      "full_name": "ReignnRule11/Sophia-Central-frontend",
+      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
+      "description": "Production-grade MVP frontend for Sophis Central",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-13T06:18:17Z",
       "default_branch": "main"
     },
     {
@@ -17,16 +17,16 @@
       "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
       "description": "Centralized academic resource and research platform backend",
       "language": "TypeScript",
-      "pushed_at": "2026-11-12T22:20:14Z",
+      "pushed_at": "2026-11-13T05:29:33Z",
       "default_branch": "main"
     },
     {
-      "name": "Sophia-Central-frontend",
-      "full_name": "ReignnRule11/Sophia-Central-frontend",
-      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
-      "description": "Production-grade MVP frontend for Sophis Central",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-12T21:19:30Z",
+      "name": "Apex-protocol",
+      "full_name": "ReignnRule11/Apex-protocol",
+      "html_url": "https://github.com/ReignnRule11/Apex-protocol",
+      "description": null,
+      "language": "Rust",
+      "pushed_at": "2026-11-13T03:48:20Z",
       "default_branch": "main"
     },
     {
