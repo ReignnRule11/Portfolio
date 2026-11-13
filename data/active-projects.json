@@ -3,21 +3,30 @@
   "visibility": "public-only",
   "projects": [
     {
-      "name": "Sophia-Central-frontend",
-      "full_name": "ReignnRule11/Sophia-Central-frontend",
-      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
-      "description": "Production-grade MVP frontend for Sophis Central",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-13T06:18:17Z",
-      "default_branch": "main"
-    },
-    {
       "name": "sophia-central-backend",
       "full_name": "ReignnRule11/sophia-central-backend",
       "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
       "description": "Centralized academic resource and research platform backend",
       "language": "TypeScript",
-      "pushed_at": "2026-11-13T05:29:33Z",
+      "pushed_at": "2026-11-13T14:50:50Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Sophia-Central-frontend",
+      "full_name": "ReignnRule11/Sophia-Central-frontend",
+      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
+      "description": "Production-grade MVP frontend for Sophis Central",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-13T14:48:33Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "EDUOSSS",
+      "full_name": "ReignnRule11/EDUOSSS",
+      "html_url": "https://github.com/ReignnRule11/EDUOSSS",
+      "description": " EduOS is a multi-tenant school management platform. It combines a NestJS REST API, a Next.js web application (public school site plus authenticated dashboard), PostgreSQL, Redis, and local or S3-compatible object storage.",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-13T10:07:01Z",
       "default_branch": "main"
     },
     {
@@ -81,15 +90,6 @@
       "description": null,
       "language": "TypeScript",
       "pushed_at": "2026-10-25T23:22:37Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "EDUOSSS",
-      "full_name": "ReignnRule11/EDUOSSS",
-      "html_url": "https://github.com/ReignnRule11/EDUOSSS",
-      "description": " EduOS is a multi-tenant school management platform. It combines a NestJS REST API, a Next.js web application (public school site plus authenticated dashboard), PostgreSQL, Redis, and local or S3-compatible object storage.",
-      "language": "TypeScript",
-      "pushed_at": "2026-10-25T21:00:51Z",
       "default_branch": "main"
     },
     {
