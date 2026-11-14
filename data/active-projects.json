@@ -3,21 +3,21 @@
   "visibility": "public-only",
   "projects": [
     {
+      "name": "PulseGridHealth",
+      "full_name": "ReignnRule11/PulseGridHealth",
+      "html_url": "https://github.com/ReignnRule11/PulseGridHealth",
+      "description": "Population and Workforce Health Early-Warning Intelligence platform.",
+      "language": "Python",
+      "pushed_at": "2026-11-14T14:30:54Z",
+      "default_branch": "main"
+    },
+    {
       "name": "Sophia-Central-frontend",
       "full_name": "ReignnRule11/Sophia-Central-frontend",
       "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
       "description": "Production-grade MVP frontend for Sophis Central",
       "language": "TypeScript",
       "pushed_at": "2026-11-14T10:54:12Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "PulseGridHealth",
-      "full_name": "ReignnRule11/PulseGridHealth",
-      "html_url": "https://github.com/ReignnRule11/PulseGridHealth",
-      "description": "Population and Workforce Health Early-Warning Intelligence platform.",
-      "language": "Python",
-      "pushed_at": "2026-11-14T10:40:06Z",
       "default_branch": "main"
     },
     {
