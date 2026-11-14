@@ -1,0 +1,35 @@
+{
+  "id": "./",
+  "name": "Justus Okoro — Portfolio",
+  "short_name": "Justus Okoro",
+  "description": "Systems architecture, AI engineering, mobile development and product work by Justus Okoro.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "any",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "categories": [
+    "business",
+    "portfolio",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./assets/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
