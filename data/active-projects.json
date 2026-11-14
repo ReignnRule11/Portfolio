@@ -91,15 +91,6 @@
       "language": "Solidity",
       "pushed_at": "2026-10-19T18:07:37Z",
       "default_branch": "main"
-    },
-    {
-      "name": "https-github.com-ReignnRule11-NeurolearnAI",
-      "full_name": "ReignnRule11/https-github.com-ReignnRule11-NeurolearnAI",
-      "html_url": "https://github.com/ReignnRule11/https-github.com-ReignnRule11-NeurolearnAI",
-      "description": " NeuroLearn AI: Your Personal AI Learning Operating System (AI study companion)",
-      "language": "Kotlin",
-      "pushed_at": "2026-10-15T19:49:53Z",
-      "default_branch": "main"
     }
   ]
 }
