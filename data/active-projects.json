@@ -8,16 +8,7 @@
       "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
       "description": "Production-grade MVP frontend for Sophis Central",
       "language": "TypeScript",
-      "pushed_at": "2026-11-16T07:51:33Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "sophia-central-backend",
-      "full_name": "ReignnRule11/sophia-central-backend",
-      "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
-      "description": "Centralized academic resource and research platform backend",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-16T07:39:09Z",
+      "pushed_at": "2026-11-16T18:18:58Z",
       "default_branch": "main"
     },
     {
@@ -26,7 +17,16 @@
       "html_url": "https://github.com/ReignnRule11/Neurolearn",
       "description": "NeuroLearn is an adaptive learning platform for schools, universities, training organizations, and companies.",
       "language": "JavaScript",
-      "pushed_at": "2026-11-16T07:35:46Z",
+      "pushed_at": "2026-11-16T10:46:49Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "sophia-central-backend",
+      "full_name": "ReignnRule11/sophia-central-backend",
+      "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
+      "description": "Centralized academic resource and research platform backend",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-16T09:36:12Z",
       "default_branch": "main"
     },
     {
