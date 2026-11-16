@@ -3,21 +3,12 @@
   "visibility": "public-only",
   "projects": [
     {
-      "name": "Neurolearn",
-      "full_name": "ReignnRule11/Neurolearn",
-      "html_url": "https://github.com/ReignnRule11/Neurolearn",
-      "description": "NeuroLearn is an adaptive learning platform for schools, universities, training organizations, and companies.",
-      "language": "JavaScript",
-      "pushed_at": "2026-11-15T23:10:38Z",
-      "default_branch": "main"
-    },
-    {
       "name": "Sophia-Central-frontend",
       "full_name": "ReignnRule11/Sophia-Central-frontend",
       "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
       "description": "Production-grade MVP frontend for Sophis Central",
       "language": "TypeScript",
-      "pushed_at": "2026-11-15T19:43:14Z",
+      "pushed_at": "2026-11-16T07:51:33Z",
       "default_branch": "main"
     },
     {
@@ -26,7 +17,16 @@
       "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
       "description": "Centralized academic resource and research platform backend",
       "language": "TypeScript",
-      "pushed_at": "2026-11-15T19:42:07Z",
+      "pushed_at": "2026-11-16T07:39:09Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Neurolearn",
+      "full_name": "ReignnRule11/Neurolearn",
+      "html_url": "https://github.com/ReignnRule11/Neurolearn",
+      "description": "NeuroLearn is an adaptive learning platform for schools, universities, training organizations, and companies.",
+      "language": "JavaScript",
+      "pushed_at": "2026-11-16T07:35:46Z",
       "default_branch": "main"
     },
     {
