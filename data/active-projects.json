@@ -3,12 +3,30 @@
   "visibility": "public-only",
   "projects": [
     {
+      "name": "sophia-central-backend",
+      "full_name": "ReignnRule11/sophia-central-backend",
+      "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
+      "description": "Centralized academic resource and research platform backend",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-16T22:30:23Z",
+      "default_branch": "main"
+    },
+    {
       "name": "Sophia-Central-frontend",
       "full_name": "ReignnRule11/Sophia-Central-frontend",
       "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
       "description": "Production-grade MVP frontend for Sophis Central",
       "language": "TypeScript",
-      "pushed_at": "2026-11-16T18:18:58Z",
+      "pushed_at": "2026-11-16T22:30:20Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Student-Attendance-DApp",
+      "full_name": "ReignnRule11/Student-Attendance-DApp",
+      "html_url": "https://github.com/ReignnRule11/Student-Attendance-DApp",
+      "description": "A full stack wallet-based attendance application targeting Ethereum Sepolia. ",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-16T20:39:17Z",
       "default_branch": "main"
     },
     {
@@ -18,15 +36,6 @@
       "description": "NeuroLearn is an adaptive learning platform for schools, universities, training organizations, and companies.",
       "language": "JavaScript",
       "pushed_at": "2026-11-16T10:46:49Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "sophia-central-backend",
-      "full_name": "ReignnRule11/sophia-central-backend",
-      "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
-      "description": "Centralized academic resource and research platform backend",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-16T09:36:12Z",
       "default_branch": "main"
     },
     {
