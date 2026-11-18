@@ -3,12 +3,21 @@
   "visibility": "public-only",
   "projects": [
     {
+      "name": "Student-Attendance-DApp",
+      "full_name": "ReignnRule11/Student-Attendance-DApp",
+      "html_url": "https://github.com/ReignnRule11/Student-Attendance-DApp",
+      "description": "A full stack wallet-based attendance application targeting Ethereum Sepolia. ",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-18T10:04:17Z",
+      "default_branch": "main"
+    },
+    {
       "name": "Sophia-Central-frontend",
       "full_name": "ReignnRule11/Sophia-Central-frontend",
       "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
       "description": "Production-grade MVP frontend for Sophis Central",
       "language": "TypeScript",
-      "pushed_at": "2026-11-18T00:44:19Z",
+      "pushed_at": "2026-11-18T10:02:48Z",
       "default_branch": "main"
     },
     {
@@ -17,16 +26,7 @@
       "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
       "description": "Centralized academic resource and research platform backend",
       "language": "TypeScript",
-      "pushed_at": "2026-11-18T00:43:49Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "Student-Attendance-DApp",
-      "full_name": "ReignnRule11/Student-Attendance-DApp",
-      "html_url": "https://github.com/ReignnRule11/Student-Attendance-DApp",
-      "description": "A full stack wallet-based attendance application targeting Ethereum Sepolia. ",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-16T20:39:17Z",
+      "pushed_at": "2026-11-18T10:02:07Z",
       "default_branch": "main"
     },
     {
