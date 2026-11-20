@@ -19,6 +19,7 @@ Project stages are stated explicitly. A repository or preview link is not, by it
 |---|---|---|---|
 | [TitanSync](https://github.com/ReignnRule11/Titansync-) | FinTech / infrastructure | Active development | Customer balance ledgers, transaction integrity, payment orchestration and resilient synchronization |
 | [PulseGrid Health](https://github.com/ReignnRule11/PulseGridHealth) | HealthTech / data | MVP and challenge development | Health-data ingestion, statistical anomaly detection and role-based review workflows |
+| [Student Attendance DApp](https://github.com/ReignnRule11/Student-Attendance-DApp) | Web3 / EdTech | Deployed on Ethereum Sepolia testnet | Wallet-based attendance, instructor authorization, timed sessions, EIP-712 signed QR authorizations and duplicate-attendance prevention |
 | [NeuroLearn](https://neurolearntechnologies.lovable.app/) | AI / EdTech | Product development | Adaptive learning, AI tutoring concepts and mobile/offline-first education |
 | [Univox](https://github.com/ReignnRule11/Univoxx) | SaaS / collaboration | Engineering project | Secure collaboration workflows, platform services and role boundaries |
 | [Sophis Central](https://github.com/ReignnRule11/Sophia-Central-mobile) | Mobile / EdTech | Mobile product development | Student and lecturer experiences, authentication and account recovery |
@@ -29,6 +30,16 @@ Explores the engineering challenges of financial operations when networks and ex
 
 ### PulseGrid Health — population-health intelligence
 A health-data platform direction focused on CSV ingestion, statistical anomaly detection, organization workspaces and review workflows. AI-generated insights should remain evidence-grounded and subject to tenant isolation, cohort privacy and provider-failure controls.
+
+### Student Attendance DApp — verifiable attendance workflows
+A wallet-based attendance application built with Solidity, Foundry, Next.js, TypeScript, wagmi, viem and EIP-712. Administrators authorize instructors; instructors register student wallets and create time-bounded attendance sessions; students submit attendance using instructor-signed QR authorizations. Contract-side checks cover role authorization, student registration, session timing and state, signature validity, nonce freshness and duplicate-attendance prevention.
+
+The contract is deployed on Ethereum Sepolia testnet, and the frontend is published on Vercel and GitHub Pages as a responsive Progressive Web App. The repository includes Foundry unit, fuzz and invariant coverage, local multi-wallet acceptance tests, automated web CI and Playwright smoke tests. This is testnet software, not an independently audited production system. The documented live two-wallet Sepolia acceptance remains outstanding, and QR sharing alone cannot prove physical classroom presence.
+
+- **Live app:** https://student-attendance-dapp-vert.vercel.app/
+- **GitHub Pages PWA:** https://reignnrule11.github.io/Student-Attendance-DApp/
+- **Source repository:** https://github.com/ReignnRule11/Student-Attendance-DApp
+- **Sepolia contract:** https://sepolia.etherscan.io/address/0x66d5E20AFEA78C97BefC47FaCd462D93b888C703
 
 ### NeuroLearn — adaptive learning
 An AI-enabled education product direction intended to adapt learning experiences to individual learners. Product themes include personalized learning paths, tutoring support, multilingual access and offline-first delivery for constrained connectivity.
