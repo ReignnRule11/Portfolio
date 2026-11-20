@@ -1,4 +1,4 @@
-const CACHE_NAME = 'justus-portfolio-v2';
+const CACHE_NAME = 'justus-portfolio-v3';
 const APP_SHELL = [
   './',
   './index.html',
