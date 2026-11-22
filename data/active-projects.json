@@ -3,30 +3,21 @@
   "visibility": "public-only",
   "projects": [
     {
-      "name": "Sophia-Central-frontend",
-      "full_name": "ReignnRule11/Sophia-Central-frontend",
-      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
-      "description": "Production-grade MVP frontend for Sophis Central",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-22T16:13:39Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "Student-Attendance-DApp",
-      "full_name": "ReignnRule11/Student-Attendance-DApp",
-      "html_url": "https://github.com/ReignnRule11/Student-Attendance-DApp",
-      "description": "A full stack wallet-based attendance application targeting Ethereum Sepolia. ",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-22T15:52:52Z",
-      "default_branch": "main"
-    },
-    {
       "name": "sophia-central-backend",
       "full_name": "ReignnRule11/sophia-central-backend",
       "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
       "description": "Centralized academic resource and research platform backend",
       "language": "TypeScript",
-      "pushed_at": "2026-11-22T11:40:02Z",
+      "pushed_at": "2026-11-22T23:28:46Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Sophia-Central-frontend",
+      "full_name": "ReignnRule11/Sophia-Central-frontend",
+      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
+      "description": "Production-grade MVP frontend for Sophis Central",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-22T23:28:38Z",
       "default_branch": "main"
     },
     {
@@ -35,7 +26,16 @@
       "html_url": "https://github.com/ReignnRule11/AevumPay",
       "description": "Intelligent tUSD8 invoice payment and settlement infrastructure on QDay Aevum Testnet.",
       "language": "TypeScript",
-      "pushed_at": "2026-11-21T20:21:29Z",
+      "pushed_at": "2026-11-22T21:02:27Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Student-Attendance-DApp",
+      "full_name": "ReignnRule11/Student-Attendance-DApp",
+      "html_url": "https://github.com/ReignnRule11/Student-Attendance-DApp",
+      "description": "A full stack wallet-based attendance application targeting Ethereum Sepolia. ",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-22T18:27:09Z",
       "default_branch": "main"
     },
     {
