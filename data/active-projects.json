@@ -3,21 +3,21 @@
   "visibility": "public-only",
   "projects": [
     {
-      "name": "Sophia-Central-frontend",
-      "full_name": "ReignnRule11/Sophia-Central-frontend",
-      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
-      "description": "Production-grade MVP frontend for Sophis Central",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-23T07:15:14Z",
-      "default_branch": "main"
-    },
-    {
       "name": "sophia-central-backend",
       "full_name": "ReignnRule11/sophia-central-backend",
       "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
       "description": "Centralized academic resource and research platform backend",
       "language": "TypeScript",
-      "pushed_at": "2026-11-23T07:04:32Z",
+      "pushed_at": "2026-11-23T19:03:34Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Sophia-Central-frontend",
+      "full_name": "ReignnRule11/Sophia-Central-frontend",
+      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
+      "description": "Production-grade MVP frontend for Sophis Central",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-23T18:17:46Z",
       "default_branch": "main"
     },
     {
