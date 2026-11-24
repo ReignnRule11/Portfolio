@@ -3,21 +3,30 @@
   "visibility": "public-only",
   "projects": [
     {
-      "name": "sophia-central-backend",
-      "full_name": "ReignnRule11/sophia-central-backend",
-      "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
-      "description": "Centralized academic resource and research platform backend",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-23T19:03:34Z",
-      "default_branch": "main"
-    },
-    {
       "name": "Sophia-Central-frontend",
       "full_name": "ReignnRule11/Sophia-Central-frontend",
       "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
       "description": "Production-grade MVP frontend for Sophis Central",
       "language": "TypeScript",
-      "pushed_at": "2026-11-23T18:17:46Z",
+      "pushed_at": "2026-11-24T00:49:46Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "sophia-central-backend",
+      "full_name": "ReignnRule11/sophia-central-backend",
+      "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
+      "description": "Centralized academic resource and research platform backend",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-24T00:49:21Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Synqforge-",
+      "full_name": "ReignnRule11/Synqforge-",
+      "html_url": "https://github.com/ReignnRule11/Synqforge-",
+      "description": "SynqForge From idea to industry. SynqForge is an autonomous product creation and lifecycle platform designed to help founders turn ideas into validated product plans, architecture, real applications, tests, and deployments from one workspace.",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-24T00:03:53Z",
       "default_branch": "main"
     },
     {
