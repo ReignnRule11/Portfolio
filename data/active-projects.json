@@ -3,6 +3,15 @@
   "visibility": "public-only",
   "projects": [
     {
+      "name": "Student-Attendance-DApp",
+      "full_name": "ReignnRule11/Student-Attendance-DApp",
+      "html_url": "https://github.com/ReignnRule11/Student-Attendance-DApp",
+      "description": "A full stack wallet-based attendance application targeting Ethereum Sepolia. ",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-24T09:11:28Z",
+      "default_branch": "main"
+    },
+    {
       "name": "Sophia-Central-frontend",
       "full_name": "ReignnRule11/Sophia-Central-frontend",
       "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
@@ -36,15 +45,6 @@
       "description": "Intelligent tUSD8 invoice payment and settlement infrastructure on QDay Aevum Testnet.",
       "language": "TypeScript",
       "pushed_at": "2026-11-23T05:48:50Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "Student-Attendance-DApp",
-      "full_name": "ReignnRule11/Student-Attendance-DApp",
-      "html_url": "https://github.com/ReignnRule11/Student-Attendance-DApp",
-      "description": "A full stack wallet-based attendance application targeting Ethereum Sepolia. ",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-22T18:27:09Z",
       "default_branch": "main"
     },
     {
