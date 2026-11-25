@@ -3,6 +3,15 @@
   "visibility": "public-only",
   "projects": [
     {
+      "name": "Synqforge-",
+      "full_name": "ReignnRule11/Synqforge-",
+      "html_url": "https://github.com/ReignnRule11/Synqforge-",
+      "description": "SynqForge From idea to industry. SynqForge is an autonomous product creation and lifecycle platform designed to help founders turn ideas into validated product plans, architecture, real applications, tests, and deployments from one workspace.",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-24T23:17:12Z",
+      "default_branch": "main"
+    },
+    {
       "name": "Student-Attendance-DApp",
       "full_name": "ReignnRule11/Student-Attendance-DApp",
       "html_url": "https://github.com/ReignnRule11/Student-Attendance-DApp",
@@ -27,15 +36,6 @@
       "description": "Centralized academic resource and research platform backend",
       "language": "TypeScript",
       "pushed_at": "2026-11-24T00:49:21Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "Synqforge-",
-      "full_name": "ReignnRule11/Synqforge-",
-      "html_url": "https://github.com/ReignnRule11/Synqforge-",
-      "description": "SynqForge From idea to industry. SynqForge is an autonomous product creation and lifecycle platform designed to help founders turn ideas into validated product plans, architecture, real applications, tests, and deployments from one workspace.",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-24T00:03:53Z",
       "default_branch": "main"
     },
     {
@@ -99,15 +99,6 @@
       "description": "Expo React Native mobile app for Sophia Central",
       "language": "TypeScript",
       "pushed_at": "2026-11-05T09:06:56Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "Nexus",
-      "full_name": "ReignnRule11/Nexus",
-      "html_url": "https://github.com/ReignnRule11/Nexus",
-      "description": null,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-25T23:22:37Z",
       "default_branch": "main"
     }
   ]
