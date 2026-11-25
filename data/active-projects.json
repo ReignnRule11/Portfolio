@@ -3,12 +3,21 @@
   "visibility": "public-only",
   "projects": [
     {
+      "name": "timezone-clock",
+      "full_name": "ReignnRule11/timezone-clock",
+      "html_url": "https://github.com/ReignnRule11/timezone-clock",
+      "description": "A mobile-friendly world clock and travel utility built with React and Vite.",
+      "language": "JavaScript",
+      "pushed_at": "2026-11-25T17:57:41Z",
+      "default_branch": "main"
+    },
+    {
       "name": "Synqforge-",
       "full_name": "ReignnRule11/Synqforge-",
       "html_url": "https://github.com/ReignnRule11/Synqforge-",
       "description": "SynqForge From idea to industry. SynqForge is an autonomous product creation and lifecycle platform designed to help founders turn ideas into validated product plans, architecture, real applications, tests, and deployments from one workspace.",
       "language": "TypeScript",
-      "pushed_at": "2026-11-24T23:17:12Z",
+      "pushed_at": "2026-11-25T11:24:48Z",
       "default_branch": "main"
     },
     {
@@ -63,15 +72,6 @@
       "description": "Population and Workforce Health Early-Warning Intelligence platform.",
       "language": "Python",
       "pushed_at": "2026-11-21T16:53:23Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "timezone-clock",
-      "full_name": "ReignnRule11/timezone-clock",
-      "html_url": "https://github.com/ReignnRule11/timezone-clock",
-      "description": "A modern digital clock displaying current time across multiple time zones with real-time updates",
-      "language": "JavaScript",
-      "pushed_at": "2026-11-11T15:36:43Z",
       "default_branch": "main"
     },
     {
