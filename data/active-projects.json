@@ -3,6 +3,24 @@
   "visibility": "public-only",
   "projects": [
     {
+      "name": "sophia-central-backend",
+      "full_name": "ReignnRule11/sophia-central-backend",
+      "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
+      "description": "Centralized academic resource and research platform backend",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-27T13:52:19Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Sophia-Central-frontend",
+      "full_name": "ReignnRule11/Sophia-Central-frontend",
+      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
+      "description": "Production-grade MVP frontend for Sophis Central",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-27T12:10:03Z",
+      "default_branch": "main"
+    },
+    {
       "name": "timezone-clock",
       "full_name": "ReignnRule11/timezone-clock",
       "html_url": "https://github.com/ReignnRule11/timezone-clock",
@@ -27,24 +45,6 @@
       "description": "A full stack wallet-based attendance application targeting Ethereum Sepolia. ",
       "language": "TypeScript",
       "pushed_at": "2026-11-24T09:11:28Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "Sophia-Central-frontend",
-      "full_name": "ReignnRule11/Sophia-Central-frontend",
-      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
-      "description": "Production-grade MVP frontend for Sophis Central",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-24T00:49:46Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "sophia-central-backend",
-      "full_name": "ReignnRule11/sophia-central-backend",
-      "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
-      "description": "Centralized academic resource and research platform backend",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-24T00:49:21Z",
       "default_branch": "main"
     },
     {
