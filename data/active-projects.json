@@ -3,12 +3,12 @@
   "visibility": "public-only",
   "projects": [
     {
-      "name": "Sophia-Central-frontend",
-      "full_name": "ReignnRule11/Sophia-Central-frontend",
-      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
-      "description": "Production-grade MVP frontend for Sophis Central",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-27T20:10:37Z",
+      "name": "Atlas",
+      "full_name": "ReignnRule11/Atlas",
+      "html_url": "https://github.com/ReignnRule11/Atlas",
+      "description": null,
+      "language": "Python",
+      "pushed_at": "2026-11-28T01:24:28Z",
       "default_branch": "main"
     },
     {
@@ -17,7 +17,25 @@
       "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
       "description": "Centralized academic resource and research platform backend",
       "language": "TypeScript",
-      "pushed_at": "2026-11-27T20:10:13Z",
+      "pushed_at": "2026-11-28T00:49:02Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Student-Attendance-DApp",
+      "full_name": "ReignnRule11/Student-Attendance-DApp",
+      "html_url": "https://github.com/ReignnRule11/Student-Attendance-DApp",
+      "description": "A full stack wallet-based attendance application targeting Ethereum Sepolia. ",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-27T23:45:01Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Sophia-Central-frontend",
+      "full_name": "ReignnRule11/Sophia-Central-frontend",
+      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
+      "description": "Production-grade MVP frontend for Sophis Central",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-27T20:10:37Z",
       "default_branch": "main"
     },
     {
@@ -36,15 +54,6 @@
       "description": "SynqForge From idea to industry. SynqForge is an autonomous product creation and lifecycle platform designed to help founders turn ideas into validated product plans, architecture, real applications, tests, and deployments from one workspace.",
       "language": "TypeScript",
       "pushed_at": "2026-11-25T11:24:48Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "Student-Attendance-DApp",
-      "full_name": "ReignnRule11/Student-Attendance-DApp",
-      "html_url": "https://github.com/ReignnRule11/Student-Attendance-DApp",
-      "description": "A full stack wallet-based attendance application targeting Ethereum Sepolia. ",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-24T09:11:28Z",
       "default_branch": "main"
     },
     {
