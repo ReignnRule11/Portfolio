@@ -8,7 +8,7 @@
       "html_url": "https://github.com/ReignnRule11/Atlas",
       "description": null,
       "language": "Python",
-      "pushed_at": "2026-11-28T01:24:28Z",
+      "pushed_at": "2026-11-28T13:19:10Z",
       "default_branch": "main"
     },
     {
@@ -17,7 +17,16 @@
       "html_url": "https://github.com/ReignnRule11/sophia-central-backend",
       "description": "Centralized academic resource and research platform backend",
       "language": "TypeScript",
-      "pushed_at": "2026-11-28T00:49:02Z",
+      "pushed_at": "2026-11-28T13:02:04Z",
+      "default_branch": "main"
+    },
+    {
+      "name": "Sophia-Central-frontend",
+      "full_name": "ReignnRule11/Sophia-Central-frontend",
+      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
+      "description": "Production-grade MVP frontend for Sophis Central",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-28T11:24:13Z",
       "default_branch": "main"
     },
     {
@@ -27,24 +36,6 @@
       "description": "A full stack wallet-based attendance application targeting Ethereum Sepolia. ",
       "language": "TypeScript",
       "pushed_at": "2026-11-27T23:45:01Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "Sophia-Central-frontend",
-      "full_name": "ReignnRule11/Sophia-Central-frontend",
-      "html_url": "https://github.com/ReignnRule11/Sophia-Central-frontend",
-      "description": "Production-grade MVP frontend for Sophis Central",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-27T20:10:37Z",
-      "default_branch": "main"
-    },
-    {
-      "name": "timezone-clock",
-      "full_name": "ReignnRule11/timezone-clock",
-      "html_url": "https://github.com/ReignnRule11/timezone-clock",
-      "description": "A mobile-friendly world clock and travel utility built with React and Vite.",
-      "language": "JavaScript",
-      "pushed_at": "2026-11-27T16:58:50Z",
       "default_branch": "main"
     },
     {
